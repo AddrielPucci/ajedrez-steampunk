@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://cf4qgvpgroquq"]
+
+[ext_resource type="Texture2D" uid="uid://mjnlcbvw4jdv" path="res://Imagenes/Tablero.webp" id="1_adh7g"]
+
+[node name="tablero" type="Node2D" unique_id=929649502]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1226547594]
+z_as_relative = false
+position = Vector2(0, 256)
+rotation = 6.2831855
+scale = Vector2(0.9, 0.9)
+texture = ExtResource("1_adh7g")
+centered = false

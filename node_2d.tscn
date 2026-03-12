@@ -1,8 +1,0 @@
-[gd_scene format=3 uid="uid://dfx4muy0d5eo4"]
-
-[ext_resource type="Texture2D" uid="uid://c1nmlbjgpybvc" path="res://Imagenes/coco.jpeg" id="1_wtcfe"]
-
-[node name="Node2D" type="Node2D" unique_id=946545654]
-
-[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1511937010]
-texture = ExtResource("1_wtcfe")
